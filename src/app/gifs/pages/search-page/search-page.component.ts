@@ -4,6 +4,5 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   selector: 'app-search-page',
   imports: [],
   templateUrl: './search-page.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export default class SearchPage { }
